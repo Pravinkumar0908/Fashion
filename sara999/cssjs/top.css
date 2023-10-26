@@ -1,0 +1,79 @@
+.container-fluid {color: white;}
+.fdklslf{background: #d7ae0a !important;}
+.myform h2{background: #fff !important;border-radius: 0px !important;}
+.myform h3{color: #000 !important;}
+.dfkjd .nav-link:hover {
+  color: #ffef00 !important;
+}
+
+.djfk a {
+  margin-left: 10px;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light.dfkjd {
+  padding-top: 0px !important;
+padding-bottom: 0px !important;
+}
+
+
+.navbar a.btn.btn-primary.gfdn {
+  background-image: none;
+  border: none;
+}
+
+.navbar a {
+  color: #fff !important;
+  text-shadow: none !important;
+  font-weight: 600;
+  font-size: 15px !important;
+}
+
+.djfk a {
+  margin-left: 10px !important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+@media only screen and (max-width: 768px) {
+	
+.djfk a {
+  margin-left: 10px !important;
+}
+
+}
+@media only screen and (max-width: 500px) {
+	
+.djfk a {
+  margin-left: 10px !important;
+}
+
+}
+
+
+.gototop {
+  position: fixed;
+  right: 20px;
+  bottom: 100px;
+  background: linear-gradient(0deg,#000 0,#000 100%) !important;
+  padding: 12px;
+  border-radius: 80px;
+  font-size: 12px;
+  box-shadow: 0 0 10px #000;
+  color: #fff;
+}
+
+.whatapp {
+  position: fixed;
+  right: 20px;
+  bottom: 40px;
+  background-color: #00e209;
+  padding: 12px;
+  border-radius: 80px;
+  font-size: 12px;
+  box-shadow: 0 0 10px #000;
+  color: #fff;
+}
